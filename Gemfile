@@ -13,7 +13,7 @@ gem 'gmail'
 gem 'omniauth-google-oauth2', '~>0.2.1'
 # gem 'google-api-client', '~> 0.9'
 gem 'google-api-client', '0.8.2', require: 'google/api_client'
-gem 'google_calender'
+gem 'google_calendar'
 
 group :development, :test do
   gem 'sqlite3', '1.3.12'
